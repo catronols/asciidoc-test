@@ -1,5 +1,4 @@
 = This is a test document
-
 :toc:
 :toc-placement!:
 
@@ -12,7 +11,3 @@ Some content for my first section.  Pretty basic stuff.
 
 == My second section
 More content, but it's way more advanced.
-=== Subsection uno
-See way more advanced
-=== Subsection dos
-Not even on the same level
