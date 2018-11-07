@@ -1,4 +1,7 @@
 = This is a test document
+ifdef::env-github[]
+:imagesdir: directory/
+endif::[]
 :toc:
 :toc-placement!:
 
@@ -11,3 +14,6 @@ Some content for my first section.  Pretty basic stuff.
 
 == My second section
 More content, but it's way more advanced.
+
+== Image
+image::Sample Code Screenshot.png[]
