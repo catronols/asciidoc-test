@@ -5,6 +5,7 @@ endif::[]
 :toc:
 :toc-placement!:
 
+link:dcode-example{outfilesuffix}[README]
 This is the first paragraph in my test document.
 
 toc::[]
